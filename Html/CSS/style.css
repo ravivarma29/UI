@@ -1,0 +1,12 @@
+h1{
+    color: blueviolet;
+    font-weight: bold;
+    padding: 10px;
+    text-decoration: dashed;
+}
+button{
+    color: orange;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
