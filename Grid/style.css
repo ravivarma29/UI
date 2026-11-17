@@ -1,0 +1,19 @@
+body
+{
+background-color: black;
+color: white;
+font-family: segoe ui, sans-serif;
+
+}
+#parent
+{
+    border: 1px solid red;
+    display: grid;
+    grid-template-columns: repeat(4,200px); 
+    grid-template-rows: repeat(3,200px);
+}
+.Child{
+    border: 1px solid pink;
+
+}
+
